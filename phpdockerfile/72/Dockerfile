@@ -1,5 +1,5 @@
 FROM php:7.2-fpm
-LABEL maintainer="tanzhilian@sina.com"
+LABEL maintainer="tanzhilian@sina.cn"
 
 RUN apt-get update \
 && apt-get install -y \
